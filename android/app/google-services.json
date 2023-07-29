@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "714803306674",
+    "project_id": "cloud-kitchen-8f4b7",
+    "storage_bucket": "cloud-kitchen-8f4b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714803306674:android:80587fc1207eacb6cf29ab",
+        "android_client_info": {
+          "package_name": "com.MLE.chef"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714803306674-m129hdke4dtrhduhtl6n3tml42f7p4fj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvAKddLmQ2VblKtEc6tqX7T_oHR7KcDxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714803306674-m129hdke4dtrhduhtl6n3tml42f7p4fj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
